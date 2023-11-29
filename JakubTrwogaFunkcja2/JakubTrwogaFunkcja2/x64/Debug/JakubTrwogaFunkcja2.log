@@ -1,0 +1,8 @@
+﻿  JakubTrwogaFunkcja2.cpp
+C:\Users\5itp\source\repos\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2.cpp(9,18): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\5itp\source\repos\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2.cpp(11,18): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\5itp\source\repos\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2.cpp(13,19): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\5itp\source\repos\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2.cpp(15,19): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\5itp\source\repos\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2.cpp(17,19): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\5itp\source\repos\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2\JakubTrwogaFunkcja2.cpp(18,9): warning C4244: "return": konwersja z "float" do "int", możliwa utrata danych
+  JakubTrwogaFunkcja2.vcxproj -> C:\Users\5itp\source\repos\JakubTrwogaFunkcja2\x64\Debug\JakubTrwogaFunkcja2.exe
